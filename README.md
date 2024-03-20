@@ -1,30 +1,15 @@
-# SOLES reveal.js Quarto template
+# ENVX1002: Introduction to Statistical Methods
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
-![Progress](https://progress-bar.dev/90/?title=progress)
 
-This is a Quarto template for creating [reveal.js](https://revealjs.com/#/) presentations. It has minimal styling using the University of Sydney brand guidelines and is effective at presenting code, equations, and figures. A single `.qmd` source file can produce USYD-branded documents in HTML, PDF and MS Word formats. Supports publishing to Github Pages.
+### [View slides in HTML](https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic06a)
 
-Note that these are not official templates, but they do follow the University of Sydney's branding guidelines.
+**Topic 06: Two-sample *t*-tests I** | Semester 1, 2024
 
-If you use this template, you're expected to know how to use Quarto and the command line. If you're not familiar with Quarto, please see the [Quarto documentation](https://quarto.org/docs/getting-started.html) for more information.
+### License and attribution
 
-## Using this template
-
-The simplest way to use this template is to click on the green "**Code**" button above and select "**Download ZIP**". Once you unzip the file, you can open the `.qmd` file in your favourite text editor and start editing.
-
-If you are well-versed in Quarto and the CLI, run the following command in your terminal to use this template directly:
-
-```sh
-quarto use template usyd-soles-edu/soles-revealjs
-```
-
-If you know Git, click on the green "**Use this template**" button above to create a new repository based on this template. An advantage in using this method is that you can import all branches from this repository, setting yourself up to publish to GitHub Pages without any further configuration.
-
-## License and attribution
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work was developed using resources that are available under a [Creative Commons Attribution 4.0 International license][cc-by], made available on the [SOLES Open Educational Resources repository][soles-oer].
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[soles-oer]: https://github.com/usyd-soles-edu
