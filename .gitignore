@@ -4,10 +4,11 @@
 .Ruserdata
 
 *_files/
+*_cache/
 /.quarto/
 
 /.luarc.json
 
-
+# default template files
 template.html
 template.pdf
